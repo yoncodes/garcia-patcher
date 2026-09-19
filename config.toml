@@ -1,0 +1,7 @@
+[endpoints]
+host = "10.0.0.186"
+game_port = 8888
+sdk_port = 18889
+hotpatch_port = 18888
+
+[tools]
